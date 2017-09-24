@@ -1,0 +1,9 @@
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\bin\Debug\randomnumbers.exe.config
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\bin\Debug\randomnumbers.exe
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\bin\Debug\randomnumbers.pdb
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\obj\Debug\randomnumbers.csprojResolveAssemblyReference.cache
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\obj\Debug\randomnumbers.Form1.resources
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\obj\Debug\randomnumbers.Properties.Resources.resources
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\obj\Debug\randomnumbers.csproj.GenerateResource.Cache
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\obj\Debug\randomnumbers.exe
+C:\Users\Miko\Desktop\randomnumbers\randomnumbers\obj\Debug\randomnumbers.pdb
